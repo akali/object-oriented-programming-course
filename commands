@@ -1,0 +1,7 @@
+cd ls pwd cat nano 
+git status // <- current status
+git pull // <- get all updates from server
+git add FILENAME // <- add FILENAME to current commit, FILENAME can be . for adding all files in this directory
+git commit -m "MESSAGE" // <- commit locally all changes with some message MESSAGE, commit -> saving point
+git push -u origin master // <- upload all commits(actually last) to server
+
